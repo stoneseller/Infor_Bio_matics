@@ -1,0 +1,18 @@
+{
+  "name": "biotech-survey-socketio",
+  "version": "1.0.0",
+  "description": "AI-생명과학 설문 및 팀 구성 실시간 웹앱 (Socket.io)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.5"
+  }
+}
